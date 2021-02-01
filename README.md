@@ -1,4 +1,4 @@
-# Lab3
+# KnapsackProblem
 
 Consider a knapsack of a given capacity and a set of items that could be added in the knapsack, for example books, food, weapons, etc. Each item has at least the following properties: a name, a weight and a value.
 The name of a weapon is actually its type, described by an enum. The weight of a book is computed as the number of pages divided by 100. The value of a food is computed as its weight multiplied by 2.
